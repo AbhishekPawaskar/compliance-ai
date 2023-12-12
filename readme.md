@@ -58,6 +58,6 @@ $  docker-compose up assistant-app
 
 ## 4. System
 
-### this is to display how this could integrate with entire system in general. (as future development)
+### this is to display how this could integrate with entire system in general. (as future development) [Please Check Assets Folder]
 
-![Screenshot](assets/infrastructure.png)
+![Alt Text](assets/infrastructure.png)
