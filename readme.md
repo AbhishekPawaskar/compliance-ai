@@ -60,4 +60,4 @@ $  docker-compose up assistant-app
 
 ### this is to display how this could integrate with entire system in general. (as future development)
 
-![Screenshot](./assets/infrastructure.png)
+![Screenshot](assets/infrastructure.png)
