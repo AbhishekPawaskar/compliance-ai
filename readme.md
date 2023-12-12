@@ -59,5 +59,6 @@ $  docker-compose up assistant-app
 ## 4. System
 
 ### this is to display how this could integrate with entire system in general. (as future development) [Please Check Assets Folder]
+<img width="524" alt="infrastructure" src="https://github.com/AbhishekPawaskar/compliance-ai/assets/46342691/8c87b11e-b215-404f-8773-8d3e0cc25d67">
 
 ![Alt Text](assets/infrastructure.png)
