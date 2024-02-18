@@ -1,5 +1,6 @@
 # COMPLIANCE AI ASSISTANT
-### this microservice is build to host APIs that helps in communicating with the assistant regarding the compliance & to check if your content is compliant or not.
+
+ This microservice is build to host APIs that helps in communicating with the assistant regarding the compliance & to check if your content is compliant or not.
 
 ##  Contents:
 ###  1. API endpoints Info
